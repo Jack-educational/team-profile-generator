@@ -2,8 +2,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
-const render = require('./lib/htmlRenderer');
-const { Manager, Engineer, Intern } = require('./lib/classes');
+const render = require('htmlRenderer');
+const { Manager, Engineer, Intern } = require('classes');
 
 // Define an empty array to store team member objects
 const teamMembers = [];
