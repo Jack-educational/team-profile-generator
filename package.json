@@ -4,7 +4,7 @@
   "description": "This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "repository": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Jack-educational/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/Jack-educational/team-profile-generator#readme"
+  "homepage": "https://github.com/Jack-educational/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
