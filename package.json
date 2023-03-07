@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-educational/team-profile-generator.git"
+  },
+  "keywords": [
+    "OOP",
+    "profile",
+    "collaboration",
+    "teamwork",
+    "unit-tests"
+  ],
+  "author": "Jack Turner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jack-educational/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Jack-educational/team-profile-generator#readme"
+}
