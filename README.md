@@ -23,8 +23,7 @@ npm install jest
 ```
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.<br>
-Example output:
+Use inquirer from your command line to answer questions about your project. Example output: <br>
 <img src="./output/output-example.png">
 
 ## License 
